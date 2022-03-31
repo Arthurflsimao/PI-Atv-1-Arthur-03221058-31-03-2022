@@ -1,0 +1,30 @@
+.divA1 {
+    background-color: #FFD700;
+    height: 460px;
+    width: 900px;
+
+}
+
+.divB2 {
+    background-color: #FF0000;
+    height: 300px;
+    width: 900px;
+}
+
+.divC3 {
+    color: #ffffff;
+    background-color: #000000;
+    font-size: 125px;
+    font-family: monospace;
+    font-weight: bold;
+}
+.divD4 {
+    width: 100%;
+    height: 50vh;
+    color: rgb(216, 68, 68);
+}
+.divE5 {
+    width: 75vh;
+    height: 100%;
+    color: rgb(212, 66, 192);
+}
